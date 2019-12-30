@@ -1,1 +1,1 @@
-# SMS-Text-Messasing-Program
+A text messaging node program, that uses Nexmo API in order to send sms messages.
